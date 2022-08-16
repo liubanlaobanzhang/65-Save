@@ -58,6 +58,7 @@
 > 其实我们不推荐，Minecraft存档不同于其他，这种存档的覆盖是毁灭性的，一旦出错，则无法撤销。
 > 并且由于Minecraft 存档的特殊性，Pull Request不能直接合并，两个存档也不能合并。
 > 所以我们建议您还是提出issues比较好。
+您可以在[Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls)页面上传你的存档。
 
 ### 提出issues
-https://github.com/6banlaobanzhang/65-Save-Backup/issues
+[issues](https://github.com/6banlaobanzhang/65-Save-Backup/issues)
