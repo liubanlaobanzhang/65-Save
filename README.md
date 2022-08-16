@@ -9,6 +9,7 @@
 想念母校了？那就来看看吧。
 
 老班长 建筑作品
+
 ![建筑内容](https://img.shields.io/badge/%E5%BB%BA%E7%AD%91%E5%86%85%E5%AE%B9-%E9%9D%92%E5%B2%9B65%E4%B8%AD-success)
 [![GitHub issues](https://img.shields.io/github/issues/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/issues)
 [![GitHub forks](https://img.shields.io/github/forks/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/network)
@@ -25,7 +26,7 @@
 > 目前此项目还未完全完工。
 
 ### 1.所有者是谁？
-这个项目的所有者是一名65中2020级6班的学生。
+这个项目的所有者是一名65中2020级的学生。
 
 ### 2.版权
 本项目/存档按照 CC BY-NC-SA 4.0 协议共享。
@@ -50,3 +51,10 @@
 | 足球场 | 0% |
 | 外部围栏 | 59.41% |
 
+---
+
+## 我希望参加这个项目
+### 如果您已经下载了存档，并且在存档中已经建造：
+> 其实我们不推荐，Minecraft存档不同于其他，这种存档的覆盖是毁灭性的，一旦出错，则无法撤销。
+> 并且由于Minecraft 存档的特殊性，Pull Request不能直接合并，两个存档也不能合并。
+> 所以我们建议您还是提出issues比较好。
