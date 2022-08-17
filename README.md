@@ -5,7 +5,9 @@
 <div align="center">
 
 # Qingdao No.65 Middle School in Minecraft
-
+### 附属于 `青岛的足迹` 项目
+#### 【UP所在地是Qingdao, Shandong, China. 加载存档前，请确认您的位置。】
+  
 想念母校了？那就来看看吧。
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-%E5%85%AD%E7%8F%AD%E8%80%81%E7%8F%AD%E9%95%BF-ff69b4)](https://space.bilibili.com/449597750)
@@ -62,7 +64,7 @@
 
 ## 我希望参加这个项目
 ### 如果您已经下载了存档，并且在存档中已经建造：
-> 其实我们不推荐，Minecraft存档不同于其他，这种存档的覆盖是毁灭性的，一旦出错，则无法撤销。
+> 其实我们`不推荐以此种方式参加项目`，Minecraft存档不同于其他，这种存档的覆盖是毁灭性的，一旦出错，则无法撤销。
 > 并且由于Minecraft 存档的特殊性，Pull Request不能直接合并，两个存档也不能合并。
 > 所以我们建议您还是提出issues比较好。
 您可以在[Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls)页面上传你的存档。
@@ -92,5 +94,31 @@
 > 如果您害怕被老师搜索到然后被批评一顿，那您也可以匿名。
 > 
 > 放心，在贡献者名单中，我们只会提出您的`Github Username`（比如说：我的就是6banlaobanzhang）
+
+---
+## 我该如何使用这个存档？
+### 提前打个预防针
+存档使用了大量模组的物品，**任何一个**模组的缺失都有可能导致存档崩溃！
+
+存档是`超平坦`地形。
+
+> 此处只作`客户端`版本的简单教学，
+> 服务端不做讲解。
+> 
+> ……话说你都要当腐竹了，这点基本功还能不会？？？
+
+### —— `Before Start`你需要安装：
+- 一个![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-success)]且装有![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)的客户端；
+- Git `(可选，如果你用起来比较6，或者比较喜欢敲代码）`；
+- **Minecraft 启动器**；`(你可以使用官方启动器，不过相比之下，我们更`[![PCL2](https://img.shields.io/badge/%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8-PCL2-blue)](https://afdian.net/p/0164034c016c11ebafcb52540025c377?ivk_sa=1024320u)`）`
+- 从Github下载`本项目的存档包、模组包和资源包（存在于三个不同的分支）`
+
+### ——`Step 2` 按步骤操作：
+1. 安装资源包
+2. 安装模组包
+3. 启动游戏
+4. 导入存档
+
+> 相关步骤此处不教学，如果你真的是Minecraft小白，你可以参考[这篇文章](https://www.tudoubaba.net/MinecraftExplorer/)或直接问度娘。
 
 ## 贡献者名单
