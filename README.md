@@ -111,7 +111,7 @@
 > _……话说你都要当腐竹了，这点基本功还能不会？？？_
 
 ### —— `Before Start`你需要安装：
-- 一个![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-success)]且装有![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)的客户端；
+- 一个![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2-success)]且装有![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)的客户端；
 - Git `(可选，如果你用起来比较6，或者比较喜欢敲代码）`；
 - **Minecraft 启动器**；`(你可以使用官方启动器，不过相比之下，我们更`[![PCL2](https://img.shields.io/badge/%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8-PCL2-blue)](https://afdian.net/p/0164034c016c11ebafcb52540025c377?ivk_sa=1024320u)`）`
 - 从Github下载`本项目的存档包、模组包和资源包（存在于三个不同的分支）`
