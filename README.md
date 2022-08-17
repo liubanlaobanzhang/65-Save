@@ -19,6 +19,7 @@
 ![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-success)
 ![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)
   
+ [![照片征集](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](
 </div>
 
 ---
