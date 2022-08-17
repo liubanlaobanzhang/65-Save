@@ -5,7 +5,6 @@
 <div align="center">
 
 # Qingdao No.65 Middle School in Minecraft
-### 附属于 `青岛的足迹` 项目
 #### 【UP所在地是Qingdao, Shandong, China. 加载存档前，请确认您的位置。】
   
 想念母校了？那就来看看吧。
