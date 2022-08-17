@@ -124,6 +124,7 @@
 
 > 相关步骤此处不教学，如果你真的是Minecraft小白，你可以参考[这篇文章](https://www.tudoubaba.net/MinecraftExplorer/)或直接问度娘。
 
+---
 ## 贡献者名单
 | Github ID/头像/称呼 | 贡献类型 |
 |--|-|
