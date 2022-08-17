@@ -66,6 +66,8 @@
 > 其实我们`不推荐以此种方式参加项目`，Minecraft存档不同于其他，这种存档的覆盖是毁灭性的，一旦出错，则无法撤销。
 > 并且由于Minecraft 存档的特殊性，Pull Request不能直接合并，两个存档也不能合并。
 > 所以我们建议您还是提出issues比较好。
+
+
 您可以在[Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls)页面上传你的存档。
 
 ### 提出issues
@@ -106,7 +108,7 @@
 > 此处只作`客户端`版本的简单教学，
 > 服务端不做讲解。
 > 
-> ……话说你都要当腐竹了，这点基本功还能不会？？？
+> _……话说你都要当腐竹了，这点基本功还能不会？？？_
 
 ### —— `Before Start`你需要安装：
 - 一个![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-success)]且装有![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)的客户端；
