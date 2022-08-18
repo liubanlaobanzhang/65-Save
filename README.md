@@ -24,6 +24,20 @@
 </div>
 
 ---
+## 预览
+- 校门口
+![image](https://user-images.githubusercontent.com/83630926/185366097-90a2781e-e093-4a7e-a219-889e3f6d50a0.png)
+
+- 411 教室
+![image](https://user-images.githubusercontent.com/83630926/185366705-8441ab6c-803c-41ac-81b5-952c071dba07.png)
+
+- 416 教室
+- 
+- 守正楼-二层厕所
+![2022-08-18_17 54 57](https://user-images.githubusercontent.com/83630926/185367284-a89de579-7965-4036-8e22-727179f5f11e.png)
+
+
+
 ## 关于这个项目
 
 > 这个项目实质是一个地图存档，在我八年级的暑假开始建造。
