@@ -5,7 +5,6 @@
 <div align="center">
 
 # Qingdao No.65 Middle School in Minecraft
-#### 【UP所在地是Qingdao, Shandong, China. 加载存档前，请确认您的位置。】
   
 一个看似不可能的项目，但我们却打算用四个月`挑战不可能`。
 
