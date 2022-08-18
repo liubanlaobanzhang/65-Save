@@ -7,7 +7,7 @@
 # Qingdao No.65 Middle School in Minecraft
 #### 【UP所在地是Qingdao, Shandong, China. 加载存档前，请确认您的位置。】
   
-想念母校了？那就来看看吧。
+一个看似不可能的项目，但我们却打算用四个月`挑战不可能`。
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-%E5%85%AD%E7%8F%AD%E8%80%81%E7%8F%AD%E9%95%BF-ff69b4)](https://space.bilibili.com/449597750)
 建筑作品
