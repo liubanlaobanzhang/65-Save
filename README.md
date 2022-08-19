@@ -5,9 +5,8 @@
 <div align="center">
 
 # Qingdao No.65 Middle School in Minecraft
-#### 【UP所在地是Qingdao, Shandong, China. 加载存档前，请确认您的位置。】
   
-想念母校了？那就来看看吧。
+一个看似不可能的项目，但我们却打算用四个月`挑战不可能`。
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-%E5%85%AD%E7%8F%AD%E8%80%81%E7%8F%AD%E9%95%BF-ff69b4)](https://space.bilibili.com/449597750)建筑作品
 
@@ -20,8 +19,58 @@
 ![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)
   
  [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/main/README.md#%E6%8F%90%E5%87%BAissues)
-  
+ ![r](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(WeChat)-green)
 </div>
+
+---
+## 预览
+> UP主没有显卡，就没开光影。先凑活着看看吧。。。
+- 守正楼-校正门
+![image](https://user-images.githubusercontent.com/83630926/185366097-90a2781e-e093-4a7e-a219-889e3f6d50a0.png)
+
+## 
+
+- 守正楼-411 教室
+````
+“你~败~了~”
+````
+![image](https://user-images.githubusercontent.com/83630926/185366705-8441ab6c-803c-41ac-81b5-952c071dba07.png)
+
+## 
+
+- 守正楼-416 教室
+
+【待拍摄】
+
+## 
+
+- 守正楼-二层厕所
+````
+“轻声细语，安静就餐。”
+````
+![2022-08-18_17 54 57](https://user-images.githubusercontent.com/83630926/185367284-a89de579-7965-4036-8e22-727179f5f11e.png)
+
+## 
+
+- 足球场
+
+【待拍摄】
+## 
+- 篮球场
+
+【待拍摄】
+## 
+- 拓新楼-大厅
+
+【待建造】
+## 
+- 拓新楼-教室
+
+【待建造】
+## 
+- 拓新楼-5层报告厅
+
+【待建造】
 
 ---
 ## 关于这个项目
@@ -50,7 +99,7 @@
 | 守正楼【教室】| 100% |
 | 守正楼【北侧办公区域】| 60% |
 | 拓新楼 | 0% |
-| 操场【足球场-守正楼】 | 100% |
+| 操场【足球场—守正楼区间】 | 100% |
 | 篮球场 | 0% |
 | 足球场 | 0% |
 | 外部围栏 | 59.41% |
@@ -58,13 +107,21 @@
 ### 6.建设比例尺？
 2:1，即 Minecraft 2格距离 = 实地1m。
 
+### 7.建筑参考
+1. 参考[青岛市自然资源和规划局](http://zrzygh.qingdao.gov.cn/) 2017-05-22 发布的[《青岛第六十五中学改扩建项目规划方案》](http://zrzygh.qingdao.gov.cn/gggs/ghgs/202204/t20220402_5170282.shtml)
+2. 参考 [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/main/README.md#%E6%8F%90%E5%87%BAissues)活动中同学们的图片上传。
+
 ---
 
 ## 我希望参加这个项目
 ### 如果您已经下载了存档，并且在存档中已经建造：
-> 其实我们`不推荐以此种方式参加项目`，Minecraft存档不同于其他，这种存档的覆盖是毁灭性的，一旦出错，则无法撤销。
-> 并且由于Minecraft 存档的特殊性，Pull Request不能直接合并，两个存档也不能合并。
-> 所以我们建议您还是提出issues比较好。
+>   其实我们`不推荐以此种方式参加项目`。
+>   
+>   Minecraft存档不同于其他，这种存档的覆盖是毁灭性的，一旦出错，则无法撤销。
+>   
+>   并且由于Minecraft 存档的特殊性，Pull Request不能直接合并，两个存档也不能合并。
+> 
+>   所以我们建议您还是提出issues比较好。
 
 
 您可以在[Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls)页面上传你的存档。
@@ -83,10 +140,8 @@
 > 我们是`2020级`的学生，如果你是`2023级`或更加往后，那么你所看到的65中或许与我们记忆中的65`有所不同`。
 > 
 > 对于这种差异，我们将不会对地图进行更改，因为我们更希望看到我们所待的学校。毕竟我们这个存档也不是实景地图啊。
-> 
->                —— 2022 @6banlaobanzhang
 
-- **校园内随手拍**（仅限**2023.7前**）
+- **校园内实景上传**（仅限**2023.7前**）
 > 如果您在65中拍了有关校内风景的照片，我们恳切地希望您能上传到issues中。
 > 
 > 这会对我们的建造还原起到`极大的作用`。
@@ -95,7 +150,7 @@
 > 
 > 如果您害怕被老师搜索到然后被批评一顿，那您也可以匿名。
 > 
-> 放心，在贡献者名单中，我们只会提出您的`Github Username`（比如说：我的就是6banlaobanzhang）
+> 放心，在贡献者名单中，我们只会提出您的`Username`，只要你的昵称足够花，老师就看不出你来。
 
 ---
 ## 我该如何使用这个存档？
@@ -125,7 +180,9 @@
 
 ---
 ## 贡献者名单
+
 | Github ID/头像/称呼 | 贡献类型 |
 |--|-|
-| [![老班长](https://avatars.githubusercontent.com/u/83630926?v=4@6banlaobanzhang)](https://space.bilibili.com/449597750) | 仓库持有人 / 总设计师 / 建筑师 / 指令负责 / 服务器负责 |
-| ![11](https://user-images.githubusercontent.com/83630926/185076468-4f4f603d-a53e-4eb2-b2fd-974e4ed82e3e.png) | 总建筑师 / 设计师 |
+| [![老班长](https://avatars.githubusercontent.com/u/83630926?v=4@6banlaobanzhang)](https://space.bilibili.com/449597750)<br> @老班长 | 仓库持有人 / 总设计师 / 建筑师 /<br> 指令负责 / 服务器负责 |
+| ![11](https://user-images.githubusercontent.com/83630926/185076468-4f4f603d-a53e-4eb2-b2fd-974e4ed82e3e.png)<br> @SCP基金会| 总建筑师 / 设计师 |
+| @于秃秃 <br>_你应该认识吧？_ | 在暑假期间提供了极其珍贵的校内实景照片，<br>并提供了守正楼平面图 |
