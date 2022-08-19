@@ -25,6 +25,7 @@
 
 ---
 ## 预览
+> UP主没有显卡，就没开光影。先凑活着看看吧。。。
 - 校门口
 ![image](https://user-images.githubusercontent.com/83630926/185366097-90a2781e-e093-4a7e-a219-889e3f6d50a0.png)
 
