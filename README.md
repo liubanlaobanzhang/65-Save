@@ -90,42 +90,46 @@
 > 不过，后面几位大佬就不咋上线了，因此`守正楼`的教室部分是我一个人用`WorldEdit`模组搭建起来的。
 
 ### 4.建造耗费了多长时间？
-> 目前还没有建造完，无法统计。
-> 估计后面也很难统计了。
+> 一天一小时，一周三四天，一共八个周。
 
 ### 5.既然没有建造完，那么建造进度是多少呢？
 | 部分        | 进度 |
 |-------------|-----|
 | 守正楼【教室】| 100% |
 | 守正楼【北侧办公区域】| 60% |
-| 拓新楼 | 0% |
+| 拓新楼 | 1% |
 | 操场【足球场—守正楼区间】 | 100% |
-| 篮球场 | 0% |
-| 足球场 | 0% |
+| 篮球场 | 3% |
+| 足球场 | 1% |
 | 外部围栏 | 59.41% |
 
 ### 6.建设比例尺？
 2:1，即 Minecraft 2格距离 = 实地1m。
 
 ### 7.建筑参考
-1. 参考[青岛市自然资源和规划局](http://zrzygh.qingdao.gov.cn/) 2017-05-22 发布的[《青岛第六十五中学改扩建项目规划方案》](http://zrzygh.qingdao.gov.cn/gggs/ghgs/202204/t20220402_5170282.shtml)
+1. 参考[青岛市自然资源和规划局](http://zrzygh.qingdao.gov.cn/) 在 2017-05-22 发布的[《青岛第六十五中学改扩建项目规划方案》](http://zrzygh.qingdao.gov.cn/gggs/ghgs/202204/t20220402_5170282.shtml)
 2. 参考 [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/main/README.md#%E6%8F%90%E5%87%BAissues)活动中同学们的图片上传。
-3. 你说我都是65的学生了，我能不知道65啥样？
+````
+你说我都是65的学生了，我能不知道65啥样？
+````
 
 ---
 
 ## 我希望参加这个项目
 ### 如果您已经下载了存档，并且在存档中已经建造：
->   其实我们`不推荐以此种方式参加项目`。
+>   我们`不推荐以此种方式参加项目`。
 >   
 >   Minecraft存档不同于其他，这种存档的覆盖是毁灭性的，一旦出错，则无法撤销。
 >   
->   并且由于Minecraft 存档的特殊性，Pull Request不能直接合并，两个存档也不能合并。
+>   并且由于 Minecraft 存档的特殊性，Pull Request不能直接合并，两个存档也不能合并。
 > 
->   所以我们建议您还是提出issues比较好。
+>   _补充：如果你熟悉[投影](https://www.mcmod.cn/class/2261.html)模组，你也可以上传你的投影文件。
 
+你可以在[Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls)页面上传你的存档，
 
-您可以在[Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls)页面上传你的存档。
+经过我们在客户端内的查看后，
+
+直接合并到存档内。
 
 ### 提出issues
 在 [issuse](https://github.com/6banlaobanzhang/65-Save-Backup/issues)页面中，你可以提出存档中的问题，
