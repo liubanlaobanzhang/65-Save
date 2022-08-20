@@ -14,12 +14,14 @@
 [![GitHub issues](https://img.shields.io/github/issues/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/issues)
 [![GitHub forks](https://img.shields.io/github/forks/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/network)
 [![GitHub stars](https://img.shields.io/github/stars/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/stargazers)
-
+  
 ![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-success)
-![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)
+[![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
   
  [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/main/README.md#%E6%8F%90%E5%87%BAissues)
  ![r](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(WeChat)-green)
+  
+  [114514](https://img.shields.io/badge/114514-1919810-451411)
 </div>
 
 ---
