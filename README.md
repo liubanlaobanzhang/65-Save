@@ -18,7 +18,7 @@
 ![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-success)
 [![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
   
- [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/main/README.md#%E6%8F%90%E5%87%BAissues)
+ [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md#%E6%8F%90%E5%87%BAissues)
  ![r](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(WeChat)-green)
   
 ![114514](https://img.shields.io/badge/114514-1919810-451411)
@@ -110,7 +110,7 @@
 
 ### 7.建筑参考
 1. 参考[青岛市自然资源和规划局](http://zrzygh.qingdao.gov.cn/) 在 2017-05-22 发布的[《青岛第六十五中学改扩建项目规划方案》](http://zrzygh.qingdao.gov.cn/gggs/ghgs/202204/t20220402_5170282.shtml)
-2. 参考 [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/main/README.md#%E6%8F%90%E5%87%BAissues)活动中同学们的图片上传。
+2. 参考 [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md#%E6%8F%90%E5%87%BAissues)活动中同学们的图片上传。
 ````
 你说我都是65的学生了，我能不知道65啥样？
 ````
