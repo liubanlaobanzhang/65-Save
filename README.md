@@ -124,17 +124,17 @@
 >   Minecraft存档不同于其他，这种存档的覆盖是毁灭性的，一旦出错，则无法撤销。
 >   
 >   并且由于 Minecraft 存档的特殊性，Pull Request不能直接合并，两个存档也不能合并。
-> 
->   _补充：如果你熟悉[投影](https://www.mcmod.cn/class/2261.html)模组，你也可以上传你的投影文件。_
 
 你可以在[Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls)页面上传你的存档，
 
-经过我们在客户端内的查看后，
+经过我们在客户端内的查看后，直接合并到存档内。
 
-直接合并到存档内。
+### 习惯使用“投影”模组？
+
+你可以导出你的投影蓝图，然后从 [Issuse](https://github.com/6banlaobanzhang/65-Save-Backup/issues) 页面上传。
 
 ### 提出issues
-在 [issuse](https://github.com/6banlaobanzhang/65-Save-Backup/issues)页面中，你可以提出存档中的问题，
+在 [Issuse](https://github.com/6banlaobanzhang/65-Save-Backup/issues) 页面中，你可以提出存档中的问题，
 
 例如：
 - 存档中的建筑设计问题；
