@@ -183,7 +183,7 @@
 
 [适用于服务端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Server)
 
-[资源包](https://github.com/6banlaobanzhang/65-Save-Backup/tree/%E8%B5%84%E6%BA%90%E5%8C%85)
+[资源包](https://github.com/6banlaobanzhang/65-Save-Backup/tree/%E8%B5%84%E6%BA%90%E5%8C%85)（目前啥也没有，就是一个空壳）
 
 ### ——`Step 2` 按步骤操作：
 1. 安装资源包
