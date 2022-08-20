@@ -125,7 +125,7 @@
 >   
 >   并且由于 Minecraft 存档的特殊性，Pull Request不能直接合并，两个存档也不能合并。
 > 
->   _补充：如果你熟悉[投影](https://www.mcmod.cn/class/2261.html)模组，你也可以上传你的投影文件。
+>   _补充：如果你熟悉[投影](https://www.mcmod.cn/class/2261.html)模组，你也可以上传你的投影文件。_
 
 你可以在[Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls)页面上传你的存档，
 
