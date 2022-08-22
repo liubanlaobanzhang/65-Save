@@ -47,7 +47,7 @@
 
 - 守正楼-416 教室
 
-【待拍摄】
+![image](https://user-images.githubusercontent.com/83630926/185890410-bab3cd01-52d1-4931-84d2-2177e3c87db9.png)
 
 ## 
 
@@ -58,6 +58,14 @@
 ![2022-08-18_17 54 57](https://user-images.githubusercontent.com/83630926/185367284-a89de579-7965-4036-8e22-727179f5f11e.png)
 
 ## 
+
+- 守正楼-4层合唱团排练区
+````
+《论如何让合唱团成员血压飙升》
+````
+![image](https://user-images.githubusercontent.com/83630926/185890750-daf33ca9-b676-4af2-9bef-f3a849f64acc.png)
+
+##
 
 - 足球场
 
