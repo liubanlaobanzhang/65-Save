@@ -1,5 +1,3 @@
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src=""></iframe>
-
 <p align="center">
 
 <img src="https://user-images.githubusercontent.com/83630926/184851263-1d3b380a-a7bc-4391-ab68-64dab4d195d4.png"/>
@@ -196,7 +194,7 @@
 
 [适用于服务端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Server)
 
-[资源包](https://github.com/6banlaobanzhang/65-Save-Backup/tree/%E8%B5%84%E6%BA%90%E5%8C%85)（目前啥也没有，就是一个空壳）
+[资源包](https://github.com/6banlaobanzhang/65-Save-Backup/tree/%E8%B5%84%E6%BA%90%E5%8C%85)
 
 ### ——`Step 2` 按步骤操作：
 1. 安装资源包
