@@ -14,18 +14,25 @@
 [![GitHub issues](https://img.shields.io/github/issues/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/issues)
 [![GitHub forks](https://img.shields.io/github/forks/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/network)
 [![GitHub stars](https://img.shields.io/github/stars/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/stargazers)
-
-![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-success)
-![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)
   
- [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/main/README.md#%E6%8F%90%E5%87%BAissues)
+![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-success)
+[![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
+  
+ [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md#%E6%8F%90%E5%87%BAissues)
  ![r](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(WeChat)-green)
+  
+![114514](https://img.shields.io/badge/114514-1919810-451411)
 </div>
 
 ---
 ## 预览
 > UP主没有显卡，就没开光影。先凑活着看看吧。。。
+
+> 资源包目前还没有搞出来，所以目前所有的截图还没有添加资源包。此处使用的是 `Bare Bones` 资源包。
 - 守正楼-校正门
+````
+北半侧尚未施工完毕，因此会出现裸露的白墙，请见谅～（2022.8）
+````
 ![image](https://user-images.githubusercontent.com/83630926/185366097-90a2781e-e093-4a7e-a219-889e3f6d50a0.png)
 
 ## 
@@ -90,44 +97,49 @@
 > 不过，后面几位大佬就不咋上线了，因此`守正楼`的教室部分是我一个人用`WorldEdit`模组搭建起来的。
 
 ### 4.建造耗费了多长时间？
-> 目前还没有建造完，无法统计。
-> 估计后面也很难统计了。
+> 一天一小时，一周三四天，一共八个周。
 
 ### 5.既然没有建造完，那么建造进度是多少呢？
 | 部分        | 进度 |
 |-------------|-----|
 | 守正楼【教室】| 100% |
 | 守正楼【北侧办公区域】| 60% |
-| 拓新楼 | 0% |
+| 拓新楼 | 1% |
 | 操场【足球场—守正楼区间】 | 100% |
-| 篮球场 | 0% |
-| 足球场 | 0% |
+| 篮球场 | 3% |
+| 足球场 | 1% |
 | 外部围栏 | 59.41% |
 
 ### 6.建设比例尺？
 2:1，即 Minecraft 2格距离 = 实地1m。
 
 ### 7.建筑参考
-1. 参考[青岛市自然资源和规划局](http://zrzygh.qingdao.gov.cn/) 2017-05-22 发布的[《青岛第六十五中学改扩建项目规划方案》](http://zrzygh.qingdao.gov.cn/gggs/ghgs/202204/t20220402_5170282.shtml)
-2. 参考 [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/main/README.md#%E6%8F%90%E5%87%BAissues)活动中同学们的图片上传。
+1. 参考[青岛市自然资源和规划局](http://zrzygh.qingdao.gov.cn/) 在 2017-05-22 发布的[《青岛第六十五中学改扩建项目规划方案》](http://zrzygh.qingdao.gov.cn/gggs/ghgs/202204/t20220402_5170282.shtml)
+2. 参考 [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md#%E6%8F%90%E5%87%BAissues)活动中同学们的图片上传。
+````
+你说我都是65的学生了，我能不知道65啥样？
+````
 
 ---
 
 ## 我希望参加这个项目
 ### 如果您已经下载了存档，并且在存档中已经建造：
->   其实我们`不推荐以此种方式参加项目`。
+>   我们`不推荐以此种方式参加项目`。
 >   
 >   Minecraft存档不同于其他，这种存档的覆盖是毁灭性的，一旦出错，则无法撤销。
 >   
->   并且由于Minecraft 存档的特殊性，Pull Request不能直接合并，两个存档也不能合并。
-> 
->   所以我们建议您还是提出issues比较好。
+>   并且由于 Minecraft 存档的特殊性，Pull Request不能直接合并，两个存档也不能合并。
 
+你可以在[Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls)页面上传你的存档，
 
-您可以在[Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls)页面上传你的存档。
+经过我们在客户端内的查看后，直接合并到存档内。
+
+### 习惯使用“投影”模组？
+
+你可以导出你的投影蓝图，然后从 [Issuse](https://github.com/6banlaobanzhang/65-Save-Backup/issues) 页面上传。
 
 ### 提出issues
-在 [issuse](https://github.com/6banlaobanzhang/65-Save-Backup/issues)页面中，你可以提出存档中的问题，
+在 [Issuse](https://github.com/6banlaobanzhang/65-Save-Backup/issues) 页面中，你可以提出存档中的问题，
 
 例如：
 - 存档中的建筑设计问题；
@@ -165,10 +177,16 @@
 > _……话说你都要当腐竹了，这点基本功还能不会？？？_
 
 ### —— `Before Start`你需要安装：
-- 一个![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2-success)]且装有![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)的客户端；
+- 一个![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2-success)且装有![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)的客户端；
 - Git `(可选，如果你用起来比较6，或者比较喜欢敲代码）`；
 - **Minecraft 启动器**；`(你可以使用官方启动器，不过相比之下，我们更`[![PCL2](https://img.shields.io/badge/%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8-PCL2-blue)](https://afdian.net/p/0164034c016c11ebafcb52540025c377?ivk_sa=1024320u)`）`
 - 从Github下载`本项目的存档包、模组包和资源包（存在于三个不同的分支）`
+
+[适用于客户端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Client)
+
+[适用于服务端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Server)
+
+[资源包](https://github.com/6banlaobanzhang/65-Save-Backup/tree/%E8%B5%84%E6%BA%90%E5%8C%85)（目前啥也没有，就是一个空壳）
 
 ### ——`Step 2` 按步骤操作：
 1. 安装资源包
@@ -183,6 +201,6 @@
 
 | Github ID/头像/称呼 | 贡献类型 |
 |--|-|
-| [![老班长](https://avatars.githubusercontent.com/u/83630926?v=4@6banlaobanzhang)](https://space.bilibili.com/449597750)<br> @老班长 | 仓库持有人 / 总设计师 / 建筑师 /<br> 指令负责 / 服务器负责 |
+| [![老班长](https://avatars.githubusercontent.com/u/83630926?v=4@6banlaobanzhang)](https://space.bilibili.com/449597750)<br> <div align="center">@老班长</div> | 仓库持有人 / 总设计师 / 建筑师 /<br> 指令负责 / 服务器负责 / 建模负责 |
 | ![11](https://user-images.githubusercontent.com/83630926/185076468-4f4f603d-a53e-4eb2-b2fd-974e4ed82e3e.png)<br> @SCP基金会| 总建筑师 / 设计师 |
-| @于秃秃 <br>_你应该认识吧？_ | 在暑假期间提供了极其珍贵的校内实景照片，<br>并提供了守正楼平面图 |
+| @于秃秃 <br>_你应该认识吧？_ | 在暑假期间提供了极其珍贵的校内实景照片，<br>（暑假除合唱团成员外不准到校）<br>并提供了守正楼平面图 |
