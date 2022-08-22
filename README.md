@@ -28,18 +28,6 @@
 
 ---
 
-## 你必须在客户端安装这些 Mods 以获得`正常的`体验。
-它们包括：
-- [前置] Forgelin-1.8.4
-- [Optifine]
-- [Xaero的世界地图] XaerosWorldMap_1.25.1
-- [Xaero的小地图] Xaeros_Minimap_22.10.0
-- [创世神] worldedit-forge-mc1.12.2-6.1.10-dist
-- [未来的MC] future-mc-1.12.2-0.2.7.3
-- [自定义局域网联机] lanserverproperties-1.0
+## 这个分支就是放一些README需要的东西，你过来干嘛？
 
-## 这些 Mod 可选，但是安装后你会获得`更好的`体验。
-- [动作] emoticons-1.1-1.12.2
-- [备份] FTBBackups-1.1.0.1
-- [前置] mclib-2.4-1.12.2
-- [回放MOD] replaymod-1.12.2-2.6.6
+[回到主分支](https://github.com/6banlaobanzhang/65-Save-Backup/)
