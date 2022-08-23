@@ -18,6 +18,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/issues)
 [![GitHub forks](https://img.shields.io/github/forks/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/network)
 [![GitHub stars](https://img.shields.io/github/stars/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/stargazers)
+[![GitHub license](https://img.shields.io/github/license/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/LICENSE)
   
 ![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-success)
 [![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
