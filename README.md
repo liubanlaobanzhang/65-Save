@@ -26,7 +26,11 @@
  ![r](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(WeChat)-green)
   
 ![114514](https://img.shields.io/badge/114514-1919810-451411)
+  
+---
 
+### Language:   [简体中文](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md)  |  English (United States)
+  
 ---
 
 ### [下载适用于客户端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Client)
