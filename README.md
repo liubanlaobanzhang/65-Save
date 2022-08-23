@@ -1,3 +1,6 @@
+<embed src="//music.163.com/style/swf/widget.swf?sid=461544312&type=2&auto=0&width=320&height=66" >
+</embed>
+
 ````
 开学了，看来要停更了。[2022.8]
 ````
