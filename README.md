@@ -1,6 +1,3 @@
-<embed src="//music.163.com/style/swf/widget.swf?sid=461544312&type=2&auto=0&width=320&height=66" >
-</embed>
-
 ````
 开学了，看来要停更了。[2022.8]
 ````
@@ -25,13 +22,23 @@
 ![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-success)
 [![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
   
- [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md#%E6%8F%90%E5%87%BAissues)
+[![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md#%E6%8F%90%E5%87%BAissues)
  ![r](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(WeChat)-green)
   
 ![114514](https://img.shields.io/badge/114514-1919810-451411)
+
+---
+
+### [下载适用于客户端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Client)
+
+### [下载适用于服务端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Server)
+
+### [下载资源包](https://github.com/6banlaobanzhang/65-Save-Backup/tree/%E8%B5%84%E6%BA%90%E5%8C%85)
+  
 </div>
 
 ---
+  
 ## 预览
 > UP主没有显卡，就没开光影。先凑活着看看吧。。。
 
