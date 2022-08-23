@@ -47,9 +47,3 @@ body:
   attributes:
      label: 备注
      description: 添加你认为有必要的信息
-
-- type: dropdown
-  id: aaaa
-  attributes:
-     label: 【暂停使用】投影模组蓝图/结构文件上传区域
-     description: 如果你已经建造完毕，你可以使用投影模组或结构方块，将蓝图或结构文件导出并上传。
