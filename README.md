@@ -230,6 +230,6 @@
 |--|-|
 | [![老班长](https://avatars.githubusercontent.com/u/83630926?v=4@6banlaobanzhang)](https://space.bilibili.com/449597750)<br> <div align="center">@老班长</div> | 仓库持有人 / 总设计师 / 建筑师 /<br> 指令负责 / 服务器负责 / 建模负责 |
 | ![11](https://user-images.githubusercontent.com/83630926/185076468-4f4f603d-a53e-4eb2-b2fd-974e4ed82e3e.png)<br> <div align="center"> @SCP基金会 </div>| 总建筑师 / 设计师 |
-| @于秃秃 <br>_暂时没有得到许可，头像就不摆了_ | 在暑假期间提供了极其珍贵的校内实景照片，<br>（暑假除合唱团成员外不准到校）<br>并提供了守正楼平面图 |
-| <img height="150px" src="https://user-images.githubusercontent.com/83630926/186105269-19b1273e-28b8-42c6-9136-ea4e8da0a49c.jpg"></img> <br> <div align="center"> @Hank товарищ </div> | **计划**在开学后勘探学校环境 |
+|  <div align="center">@于秃秃 <br>_暂时没有得到许可，<br>头像就先不摆了_</div> | 在暑假期间提供了极其珍贵的校内实景照片，<br>（暑假除合唱团成员外不准到校）<br>并提供了守正楼平面图 |
+| <img height="150px" src="https://user-images.githubusercontent.com/83630926/186105269-19b1273e-28b8-42c6-9136-ea4e8da0a49c.jpg"></img> <br> <div align="center"> @Hank товарищ </div> | **计划**在开学后勘探学校环境，<br>有意向参加本项目 |
 
