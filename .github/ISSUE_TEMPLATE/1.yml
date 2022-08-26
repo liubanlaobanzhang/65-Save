@@ -1,29 +1,49 @@
-name: Bug 报告
-description: 提交 Bug 以帮助我们提高应用体验
-title: "[Bug] 我的标题"
-assignees: Richasy
+name: 存档中的建筑设计问题（现实中有但存档中无）
+description: 如果你发现现实中有某个建筑但存档中没有，请在此提交Issues。
+title: "[现实中有但存档中无] 我的标题"
+assignees: 6banlaobanzhang
 labels:
-  - "bug 🐛"
+  - "存档与实地不符"
 body:
 - type: markdown
-attributes: 
+  attributes: 
     value: |
-     ## 写在开头
-      🚨 请务必完整填写下面的内容，如果缺少必要的信息，开发者可能会在未调查的情况下直接关闭问题 🚨
+      ## 写在开头
+      🚨 请务必完整填写下面的内容，如果缺少必要的信息，UP可能会直接关闭问题 🚨
+      
 - type: textarea
   id: description
   validations:
-  required: true
+    required: true
   attributes:
-  label: Bug 描述
-  description: 请简短的描述你遇到的问题
+     label: 描述
+     description: 请简短地描述存档中的问题
+
 - type: textarea
   id: repro-steps
   validations:
-  required: true
+    required: true
   attributes:
-  label: 复现问题的步骤
-  render: plain text
-  description: 请提供复现问题的步骤，如果不能，请写明原因
-  placeholder: |
-       干净清晰的复现步骤有助于开发者更快定位问题所在，你所遇到的问题也会获得更高的优先级。
+     label: 建筑应该存在的位置
+     render: plain text
+     description: 
+
+- type: textarea
+  id: expected-behavior
+  validations:
+    required: true
+  attributes:
+     label: 预期行为
+     description: 简要描述你希望看到什么样的结果
+     
+- type: textarea
+  id: screenshots
+  attributes:
+     label: 截图
+     description: 提交截图更有助于我们分析问题
+
+- type: textarea
+  id: additional-context
+  attributes:
+     label: 备注
+     description: 添加你认为有必要的信息

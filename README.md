@@ -1,7 +1,17 @@
+---
+
+<div align="center">
+  
+  ## 暂停更新通知
+  
+  ### 本项目在 [2022.9—2023.6.15] 时间段区间停更。开学后，我们将进一步对学校环境进行勘探。
+
+</div>
+
+---
+
 <p align="center">
-````
-开学了，看来要停更了。[2022.8]
-````
+
 <img src="https://user-images.githubusercontent.com/83630926/184851263-1d3b380a-a7bc-4391-ab68-64dab4d195d4.png"/>
 
 <div align="center">
@@ -10,23 +20,38 @@
   
 一个看似不可能的项目，但我们却打算用四个月`挑战不可能`。
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-%E5%85%AD%E7%8F%AD%E8%80%81%E7%8F%AD%E9%95%BF-ff69b4)](https://space.bilibili.com/449597750)建筑作品
+[![Bilibili](https://img.shields.io/badge/Bilibili-%E5%85%AD%E7%8F%AD%E8%80%81%E7%8F%AD%E9%95%BF-ff69b4)](https://space.bilibili.com/449597750) 建筑作品
 
 ![建筑内容](https://img.shields.io/badge/%E5%BB%BA%E7%AD%91%E5%86%85%E5%AE%B9-%E9%9D%92%E5%B2%9B65%E4%B8%AD-success)
 [![GitHub issues](https://img.shields.io/github/issues/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/issues)
 [![GitHub forks](https://img.shields.io/github/forks/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/network)
 [![GitHub stars](https://img.shields.io/github/stars/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/stargazers)
+[![GitHub license](https://img.shields.io/github/license/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/LICENSE)
   
 ![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-success)
 [![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
   
- [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md#%E6%8F%90%E5%87%BAissues)
+[![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md#%E6%8F%90%E5%87%BAissues)
  ![r](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(WeChat)-green)
   
 ![114514](https://img.shields.io/badge/114514-1919810-451411)
+  
+---
+
+### Language:   [简体中文](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md)  |  English (United States)
+  
+---
+
+### [下载适用于客户端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Client)
+
+### [下载适用于服务端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Server)
+
+### [下载资源包](https://github.com/6banlaobanzhang/65-Save-Backup/tree/%E8%B5%84%E6%BA%90%E5%8C%85)（此资源包魔改自 [Bare Bones](https://www.curseforge.com/minecraft/texture-packs/bare-bones-texture-pack) 材质包）
+  
 </div>
 
 ---
+  
 ## 预览
 > UP主没有显卡，就没开光影。先凑活着看看吧。。。
 
@@ -100,6 +125,7 @@
 
 ### 2.版权
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
+<br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ### 3.谁参与了存档的建造？
 是我和班里几个Minecraft建筑大佬朋友们一起做的。
@@ -124,7 +150,7 @@
 2:1，即 Minecraft 2格距离 = 实地1m。
 
 ### 7.建筑参考
-1. 参考[青岛市自然资源和规划局](http://zrzygh.qingdao.gov.cn/) 在 2017-05-22 发布的[《青岛第六十五中学改扩建项目规划方案》](http://zrzygh.qingdao.gov.cn/gggs/ghgs/202204/t20220402_5170282.shtml)
+1. 参考 [青岛市自然资源和规划局](http://zrzygh.qingdao.gov.cn/) 在 2017-05-22 发布的[《青岛第六十五中学改扩建项目规划方案》](http://zrzygh.qingdao.gov.cn/gggs/ghgs/202204/t20220402_5170282.shtml)
 2. 参考 [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md#%E6%8F%90%E5%87%BAissues)活动中同学们的图片上传。
 ````
 你说我都是65的学生了，我能不知道65啥样？
@@ -133,6 +159,12 @@
 ---
 
 ## 我希望参加这个项目
+
+### 赞助
+给点？
+![1](https://ghproxy.com/https://raw.githubusercontent.com/6banlaobanzhang/65-Save-Backup/README%E4%B8%93%E7%94%A8/mm_reward_qrcode_1661277326607.png)
+
+
 ### 如果您已经下载了存档，并且在存档中已经建造：
 >   我们`不推荐以此种方式参加项目`。
 >   
@@ -175,6 +207,7 @@
 > 放心，在贡献者名单中，我们只会提出您的`Username`，只要你的昵称足够花，老师就看不出你来。
 
 ---
+
 ## 我该如何使用这个存档？
 ### 提前打个预防针
 存档使用了大量模组的物品，**任何一个**模组的缺失都有可能导致存档崩溃！
@@ -212,5 +245,7 @@
 | Github ID/头像/称呼 | 贡献类型 |
 |--|-|
 | [![老班长](https://avatars.githubusercontent.com/u/83630926?v=4@6banlaobanzhang)](https://space.bilibili.com/449597750)<br> <div align="center">@老班长</div> | 仓库持有人 / 总设计师 / 建筑师 /<br> 指令负责 / 服务器负责 / 建模负责 |
-| ![11](https://user-images.githubusercontent.com/83630926/185076468-4f4f603d-a53e-4eb2-b2fd-974e4ed82e3e.png)<br> @SCP基金会| 总建筑师 / 设计师 |
-| @于秃秃 <br>_你应该认识吧？_ | 在暑假期间提供了极其珍贵的校内实景照片，<br>（暑假除合唱团成员外不准到校）<br>并提供了守正楼平面图 |
+| ![11](https://user-images.githubusercontent.com/83630926/185076468-4f4f603d-a53e-4eb2-b2fd-974e4ed82e3e.png)<br> <div align="center"> @SCP基金会 </div>| 总建筑师 / 设计师 |
+|  <div align="center">@于秃秃 <br>_暂时没有得到许可，<br>头像就先不摆了_</div> | 在暑假期间提供了极其珍贵的校内实景照片，<br>（暑假除合唱团成员外不准到校）<br>并提供了守正楼平面图 |
+| <img height="150px" src="https://user-images.githubusercontent.com/83630926/186105269-19b1273e-28b8-42c6-9136-ea4e8da0a49c.jpg"></img> <br> <div align="center"> @Hank товарищ </div> | **计划**在开学后勘探学校环境，<br>有意向参加本项目 |
+
