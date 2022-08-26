@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2022-08-24 19:06:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
       "has_lime_wool": "2022-08-18 14:55:02 +0800"
