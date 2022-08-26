@@ -1,11 +1,10 @@
----
-
 <div align="center">
   
   ## 暂停更新通知
   
-  ### 本项目在 [2022.9—2023.6.15] 时间段区间停更。开学后，我们将进一步对学校环境进行勘探。
-
+  ### 因学业问题，本项目在 [2022.9—2023.6.15] 时间段区间停更。
+  ### 开学后，我们将进一步对学校环境进行勘探。
+  ### _我们没有挑战失败，因为……还有两个月。_
 </div>
 
 ---
@@ -13,6 +12,8 @@
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/83630926/184851263-1d3b380a-a7bc-4391-ab68-64dab4d195d4.png"/>
+
+</div>
 
 <div align="center">
 
@@ -56,6 +57,8 @@
 > UP主没有显卡，就没开光影。先凑活着看看吧。。。
 
 > 资源包目前还没有搞出来，所以目前所有的截图还没有添加资源包。此处使用的是 `Bare Bones` 资源包。
+
+
 - 守正楼-校正门
 ````
 北半侧尚未施工完毕，因此会出现裸露的白墙，请见谅～（2022.8）
@@ -124,7 +127,7 @@
 这个项目的所有者是一名65中2020级的学生。
 
 ### 2.版权
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> <img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/github/license/6banlaobanzhang/65-Save-Backup" height="31"/></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
 <br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ### 3.谁参与了存档的建造？
@@ -163,7 +166,7 @@
 ### 赞助
 给点？
 
-![1](https://ghproxy.com/https://raw.githubusercontent.com/6banlaobanzhang/65-Save-Backup/README%E4%B8%93%E7%94%A8/mm_reward_qrcode_1661277326607.png)
+![赞助](https://ghproxy.com/https://raw.githubusercontent.com/6banlaobanzhang/65-Save-Backup/README%E4%B8%93%E7%94%A8/mm_reward_qrcode_1661277326607.png)
 
 
 ### 如果您已经下载了存档，并且在存档中已经建造：
@@ -171,18 +174,18 @@
 >   
 >   Minecraft存档不同于其他，这种存档的覆盖是毁灭性的，一旦出错，则无法撤销。
 >   
->   并且由于 Minecraft 存档的特殊性，Pull Request不能直接合并，两个存档也不能合并。
+>   并且由于 Minecraft 存档的特殊性，Pull Request`不能直接合并`，两个存档的相同区块目前也不能合并。
 
 你可以在[Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls)页面上传你的存档，
 
-经过我们在客户端内的查看后，直接合并到存档内。
+经过我们在客户端内的查看后，将直接合并到存档内。
 
 ### 习惯使用“投影”模组或结构方块？
 > 似乎投影模组与此整合包中的某个模组或材质包不兼容，可能导致闪退，因此请不要使用。
 
-你可以导出你的投影蓝图或者结构文件，然后从 [Issuse](https://github.com/6banlaobanzhang/65-Save-Backup/issues) 页面/[Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls)上传。
+你可以导出你的投影蓝图或者结构文件，然后从 [Issuse](https://github.com/6banlaobanzhang/65-Save-Backup/issues) / [Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls) 页面上传。
 
-### 提出issues
+### 提出Issues
 在 [Issuse](https://github.com/6banlaobanzhang/65-Save-Backup/issues) 页面中，你可以提出存档中的问题，
 
 例如：
@@ -197,8 +200,8 @@
 > 
 > 对于这种差异，我们将不会对地图进行更改，因为我们更希望看到我们所待的学校。毕竟我们这个存档也不是实景地图啊。
 
-- **校园内实景上传**（仅限**2023.7前**）
-> 如果您在65中拍了有关校内风景的照片，我们恳切地希望您能上传到issues中。
+- **实景上传**（仅限**2023.7前**）
+> 如果您在65中拍了有关校内实景的照片，我们恳切地希望您能上传到 Issues 中，
 > 
 > 这会对我们的建造还原起到`极大的作用`。
 > 
@@ -212,11 +215,11 @@
 
 ## 我该如何使用这个存档？
 ### 提前打个预防针
-存档使用了大量模组的物品，**任何一个**模组的缺失都有可能导致存档崩溃！
+1. 存档使用了大量模组的物品，**任何一个**模组的缺失都有可能导致存档崩溃！
 
-存档是`超平坦`地形。
+2. 存档是`超平坦`地形。
 
-> 此处只作`客户端`版本的简单教学，
+> 此处只作`客户端`版本的简单教学，<br>
 > 服务端不做讲解。
 > 
 > _……话说你都要当腐竹了，这点基本功还能不会？？？_
@@ -225,13 +228,12 @@
 - 一个![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2-success)且装有![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)的客户端；
 - Git `(可选，如果你用起来比较6，或者比较喜欢敲代码）`；
 - **Minecraft 启动器**；`(你可以使用官方启动器，不过相比之下，我们更`[![PCL2](https://img.shields.io/badge/%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8-PCL2-blue)](https://afdian.net/p/0164034c016c11ebafcb52540025c377?ivk_sa=1024320u)`）`
-- 从Github下载`本项目的存档包、模组包和资源包（存在于三个不同的分支）`
+- 从 Github / 镜像站下载`本项目的存档包、模组包和资源包（存在于三个不同的分支）`
+  
+<div align="center">
 
-[适用于客户端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Client)
-
-[适用于服务端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Server)
-
-[资源包](https://github.com/6banlaobanzhang/65-Save-Backup/tree/%E8%B5%84%E6%BA%90%E5%8C%85)
+### [存档包](https://ghproxy.com/https://github.com/6banlaobanzhang/65-Save-Backup/archive/refs/heads/save.zip) | [适用于客户端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Client) | [适用于服务端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Server) | [资源包](https://github.com/6banlaobanzhang/65-Save-Backup/tree/%E8%B5%84%E6%BA%90%E5%8C%85)
+</div>
 
 ### ——`Step 2` 按步骤操作：
 1. 安装资源包
@@ -244,10 +246,10 @@
 ---
 ## 贡献者名单
 
-| Github ID/头像/称呼 | 贡献类型 |
-|--|-|
-| [![老班长](https://avatars.githubusercontent.com/u/83630926?v=4@6banlaobanzhang)](https://space.bilibili.com/449597750)<br> <div align="center">@老班长</div> | 仓库持有人 / 总设计师 / 建筑师 /<br> 指令负责 / 服务器负责 / 建模负责 |
+| 称呼 | 贡献类型 |
+|--|--|
+| [![老班长](https://avatars.githubusercontent.com/u/83630926?v=4@6banlaobanzhang)](https://space.bilibili.com/449597750)<br> <div align="center">@老班长</div> | 仓库持有人 / 总设计师 / 建筑师 /<br> 指令负责 / 服务器负责 / 资源包负责 |
 | ![11](https://user-images.githubusercontent.com/83630926/185076468-4f4f603d-a53e-4eb2-b2fd-974e4ed82e3e.png)<br> <div align="center"> @SCP基金会 </div>| 总建筑师 / 设计师 |
-|  <div align="center">@于秃秃 <br>_暂时没有得到许可，<br>头像就先不摆了_</div> | 在暑假期间提供了极其珍贵的校内实景照片，<br>（暑假除合唱团成员外不准到校）<br>并提供了守正楼平面图 |
-| <img height="150px" src="https://user-images.githubusercontent.com/83630926/186105269-19b1273e-28b8-42c6-9136-ea4e8da0a49c.jpg"></img> <br> <div align="center"> @Hank товарищ </div> | **计划**在开学后勘探学校环境，<br>有意向参加本项目 |
+|  <div align="center">@于秃秃 <br>_暂时没有得到许可，<br>头像就先不摆了_</div> | 在暑假期间提供了极其珍贵的校内实景照片，<br>（因**暑假除合唱团成员外不准到校）<br>并提供了守正楼平面图 |
+| <img height="150px" src="https://user-images.githubusercontent.com/83630926/186105269-19b1273e-28b8-42c6-9136-ea4e8da0a49c.jpg"></img> <br> <div align="center"> @Hank товарищ </div> | 计划在开学后勘探学校环境，<br>有意向参加本项目 |
 
