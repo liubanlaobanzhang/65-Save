@@ -162,6 +162,7 @@
 
 ### 赞助
 给点？
+
 ![1](https://ghproxy.com/https://raw.githubusercontent.com/6banlaobanzhang/65-Save-Backup/README%E4%B8%93%E7%94%A8/mm_reward_qrcode_1661277326607.png)
 
 
@@ -176,9 +177,10 @@
 
 经过我们在客户端内的查看后，直接合并到存档内。
 
-### 习惯使用“投影”模组？
+### 习惯使用“投影”模组或结构方块？
+> 似乎投影模组与此整合包中的某个模组或材质包不兼容，可能导致闪退，因此请不要使用。
 
-你可以导出你的投影蓝图，然后从 [Issuse](https://github.com/6banlaobanzhang/65-Save-Backup/issues) 页面上传。
+你可以导出你的投影蓝图或者结构文件，然后从 [Issuse](https://github.com/6banlaobanzhang/65-Save-Backup/issues) 页面/[Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls)上传。
 
 ### 提出issues
 在 [Issuse](https://github.com/6banlaobanzhang/65-Save-Backup/issues) 页面中，你可以提出存档中的问题，
