@@ -7,8 +7,8 @@
   ## 存档版本更换通知
   
   ### 由于部分场景的搭建需要新版本的内容，且旧版本的部分模组不兼容，
-  ### Minecraft 版本即将更新为![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.17.1(Fabric)-success)。
-  ### （目前我们还没有更新到此版本，你依旧应当继续使用 1.17.1 版本。）
+  ### Minecraft 版本`即将`更新为![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.17.1(Fabric)-success)。
+  ### （目前我们还没有更新到此版本，你依旧应当继续使用 1.12.2 版本。）
   
 ---
 
