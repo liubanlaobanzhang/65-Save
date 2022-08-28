@@ -1,8 +1,20 @@
 <div align="center">
+
+---
+
+# 通知栏
+
+  ## 存档版本更换通知
   
+  ### 由于部分场景的搭建需要新版本的内容，且旧版本的部分模组不兼容，
+  ### Minecraft 版本即将更新为![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.17.1(Fabric)-success)。
+  ### （目前我们还没有更新到此版本，你依旧应当继续使用 1.17.1 版本。）
+  
+---
+
   ## 暂停更新通知
   
-  ### 因学业问题，本项目在 [2022.9—2023.6.15] 时间段区间停更。
+  ### 因学业问题，本项目在 [2022.9—2023.6] 时间段区间停更。
   ### 开学后，我们将进一步对学校环境进行勘探。
   ### _我们没有挑战失败，因为……还有两个月。_
 </div>
@@ -29,8 +41,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/stargazers)
 [![GitHub license](https://img.shields.io/github/license/6banlaobanzhang/65-Save-Backup)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/LICENSE)
   
-![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-success)
-[![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-blue)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
+![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-red)
+[![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-red)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
   
 [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md#%E6%8F%90%E5%87%BAissues)
  ![r](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(WeChat)-green)
