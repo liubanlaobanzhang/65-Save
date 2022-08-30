@@ -1,13 +1,8 @@
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/83630926/184851263-1d3b380a-a7bc-4391-ab68-64dab4d195d4.png"/>
-
-</div>
-
-<div align="center">
+<img src="https://user-images.githubusercontent.com/83630926/184851263-1d3b380a-a7bc-4391-ab68-64dab4d195d4.png"/></img>
 
 # Qingdao No.65 Middle School in Minecraft
-  
+
 一个看似不可能的项目，但我们却打算用四个月`挑战不可能`。
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-%E5%85%AD%E7%8F%AD%E8%80%81%E7%8F%AD%E9%95%BF-ff69b4)](https://space.bilibili.com/449597750) 建筑作品
@@ -27,29 +22,16 @@
 ![114514](https://img.shields.io/badge/114514-1919810-451411)
   
 ---
-
-### Language:   [简体中文](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md)  |  English (United States)
-
-
----
----
-
-  ## 存档版本更换通知
+  ## 存档版本迁移通知
   
   ### 由于部分场景的搭建需要新版本的内容，且旧版本的部分模组不兼容，
-  ### Minecraft 版本`即将`更新为![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.17.1(Fabric)-success)。
-  ### （目前我们还没有更新到此版本，你依旧应当继续使用 1.12.2 版本。）
+  ### Minecraft 版本`即将`更新为![Minecraft 新版本](https://img.shields.io/badge/Minecraft-1.17.1(Fabric)-success)[![Fabric 版本](https://img.shields.io/badge/Fabric-0.14.9-blue)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)。
+  ### 迁移后，资源包将使用“追加包”形式，
+  ### 即只在资源包中更改存档中需要更改的部分。
+  ### 目前存档版本迁移计划已正式开始，预计2022.10.7前完成。
   
 ---
 
-  ## 暂停更新通知
-  
-  ### 因学业问题，本项目在 [2022.9—2023.6] 时间段区间停更。
-  ### 开学后，我们将进一步对学校环境进行勘探。
-  ### _我们没有挑战失败，因为……还有两个月。_
-
----
----
 ### [下载适用于客户端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Client)
 
 ### [下载适用于服务端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Server)
@@ -59,12 +41,11 @@
 </div>
 
 ---
----
   
 ## 预览
 > UP主没有显卡，就没开光影。先凑和着看看吧。。。
 
-> 资源包目前还没有搞出来，所以部分截图还没有添加资源包。此处使用的是 [`Bare Bones 原版`](https://www.curseforge.com/minecraft/texture-packs/bare-bones-texture-pack) 资源包。
+> 资源包目前还没有搞出来，所以部分截图还没有添加资源包。部分使用的是 [`Bare Bones 原版`](https://www.curseforge.com/minecraft/texture-packs/bare-bones-texture-pack) 资源包。
 
 
 - 守正楼-校正门
@@ -164,7 +145,7 @@
 1. 参考 [青岛市自然资源和规划局](http://zrzygh.qingdao.gov.cn/) 在 2017-05-22 发布的[《青岛第六十五中学改扩建项目规划方案》](http://zrzygh.qingdao.gov.cn/gggs/ghgs/202204/t20220402_5170282.shtml)
 2. 参考 [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md#%E6%8F%90%E5%87%BAissues)活动中同学们的图片上传。
 ````
-你说我都是65的学生了，我能不知道65啥样？
+都是65的学生了，能不知道65啥样？
 ````
 
 ---
@@ -172,9 +153,7 @@
 ## 我希望参加这个项目
 
 ### 赞助
-给点？
-
-![赞助](https://ghproxy.com/https://raw.githubusercontent.com/6banlaobanzhang/65-Save-Backup/README%E4%B8%93%E7%94%A8/mm_reward_qrcode_1661277326607.png)
+<img height="450px" src="https://ghproxy.com/https://raw.githubusercontent.com/6banlaobanzhang/65-Save-Backup/README%E4%B8%93%E7%94%A8/mm_reward_qrcode_1661277326607.png"></img>
 
 
 ### 如果您已经下载了存档，并且在存档中已经建造：
@@ -200,7 +179,9 @@
 - 存档中的建筑设计问题；
 
 - 存档内容与实地不符；
-> 备注：我们希望恢复的是`2020-2023年`区间的65中。
+> 备注：
+> 
+> 我们希望恢复的是`2020-2023年`区间的65中。
 > 
 > 现在，我们不确定65中在未来是否会`搬迁`或进行大规模的`改动`。
 > 
@@ -249,7 +230,7 @@
 3. 启动游戏
 4. 导入存档
 
-> 相关步骤此处不教学，如果你真的是Minecraft小白，你可以参考[这篇文章](https://www.tudoubaba.net/MinecraftExplorer/)或直接问度娘。
+> 相关步骤此处不教学，如果你是Minecraft小白，你可以参考[这篇文章](https://www.tudoubaba.net/MinecraftExplorer/)或直接问度娘。
 
 ---
 ## 贡献者名单
@@ -258,6 +239,6 @@
 |--|--|
 | [![老班长](https://avatars.githubusercontent.com/u/83630926?v=4@6banlaobanzhang)](https://space.bilibili.com/449597750)<br> <div align="center">@老班长</div> | 仓库持有人 / 总设计师 / 建筑师 /<br> 指令负责 / 服务器负责 / 资源包负责 |
 | ![11](https://user-images.githubusercontent.com/83630926/185076468-4f4f603d-a53e-4eb2-b2fd-974e4ed82e3e.png)<br> <div align="center"> @SCP基金会 </div>| 总建筑师 / 设计师 |
-|  <div align="center">@于秃秃 <br>_暂时没有得到许可，<br>头像就先不摆了_</div> | 在暑假期间提供了极其珍贵的校内实景照片，<br>（因**暑假除合唱团成员外不准到校）<br>并提供了守正楼平面图 |
+|  <div align="center">@于秃秃 <br>_暂时没有得到许可，<br>头像就先不摆了_</div> | 在暑假期间提供了极其珍贵的校内实景照片，<br>（暑假除合唱团成员外不准到校）<br>并提供了守正楼平面图 |
 | <img height="150px" src="https://user-images.githubusercontent.com/83630926/186105269-19b1273e-28b8-42c6-9136-ea4e8da0a49c.jpg"></img> <br> <div align="center"> @Hank товарищ </div> | 计划在开学后勘探学校环境，<br>有意向参加本项目 |
 
