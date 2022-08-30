@@ -1,28 +1,5 @@
 <div align="center">
 
----
-
-# 通知栏
-
-  ## 存档版本更换通知
-  
-  ### 由于部分场景的搭建需要新版本的内容，且旧版本的部分模组不兼容，
-  ### Minecraft 版本`即将`更新为![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.17.1(Fabric)-success)。
-  ### （目前我们还没有更新到此版本，你依旧应当继续使用 1.12.2 版本。）
-  
----
-
-  ## 暂停更新通知
-  
-  ### 因学业问题，本项目在 [2022.9—2023.6] 时间段区间停更。
-  ### 开学后，我们将进一步对学校环境进行勘探。
-  ### _我们没有挑战失败，因为……还有两个月。_
-</div>
-
----
-
-<div align="center">
-
 <img src="https://user-images.githubusercontent.com/83630926/184851263-1d3b380a-a7bc-4391-ab68-64dab4d195d4.png"/>
 
 </div>
@@ -52,9 +29,27 @@
 ---
 
 ### Language:   [简体中文](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md)  |  English (United States)
+
+
+---
+---
+
+  ## 存档版本更换通知
+  
+  ### 由于部分场景的搭建需要新版本的内容，且旧版本的部分模组不兼容，
+  ### Minecraft 版本`即将`更新为![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.17.1(Fabric)-success)。
+  ### （目前我们还没有更新到此版本，你依旧应当继续使用 1.12.2 版本。）
   
 ---
 
+  ## 暂停更新通知
+  
+  ### 因学业问题，本项目在 [2022.9—2023.6] 时间段区间停更。
+  ### 开学后，我们将进一步对学校环境进行勘探。
+  ### _我们没有挑战失败，因为……还有两个月。_
+
+---
+---
 ### [下载适用于客户端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Client)
 
 ### [下载适用于服务端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Server)
@@ -64,16 +59,17 @@
 </div>
 
 ---
+---
   
 ## 预览
-> UP主没有显卡，就没开光影。先凑活着看看吧。。。
+> UP主没有显卡，就没开光影。先凑和着看看吧。。。
 
-> 资源包目前还没有搞出来，所以目前所有的截图还没有添加资源包。此处使用的是 `Bare Bones` 资源包。
+> 资源包目前还没有搞出来，所以部分截图还没有添加资源包。此处使用的是 [`Bare Bones 原版`](https://www.curseforge.com/minecraft/texture-packs/bare-bones-texture-pack) 资源包。
 
 
 - 守正楼-校正门
 ````
-北半侧尚未施工完毕，因此会出现裸露的白墙，请见谅～（2022.8）
+北半侧尚未施工完毕，因此会出现裸露的白墙……（2022.8）
 ````
 ![image](https://user-images.githubusercontent.com/83630926/185366097-90a2781e-e093-4a7e-a219-889e3f6d50a0.png)
 
