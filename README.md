@@ -16,8 +16,8 @@
 ![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-red)
 [![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-red)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
   
-[![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(Issues)-12a182)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md#%E6%8F%90%E5%87%BAissues)
- ![r](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E5%BC%80%E6%94%BE(WeChat)-green)
+[![q]( ![r](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E6%9A%82%E5%81%9C(GitHubIssuses)-orange)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md#%E6%8F%90%E5%87%BAissues)
+ ![r](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E6%9A%82%E5%81%9C(WeChat)-orange)
   
 ![114514](https://img.shields.io/badge/114514-1919810-451411)
   
@@ -168,7 +168,7 @@
 经过我们在客户端内的查看后，将直接合并到存档内。
 
 ### 习惯使用“投影”模组或结构方块？
-> 似乎投影模组与此整合包中的某个模组或材质包不兼容，可能导致闪退，因此请不要使用。
+> 似乎投影模组与此整合包中的某个模组或材质包不兼容，可能导致闪退，目前请不要使用。<br> <br>经测试1.17.1版本不会出现此问题。
 
 你可以导出你的投影蓝图或者结构文件，然后从 [Issuse](https://github.com/6banlaobanzhang/65-Save-Backup/issues) / [Pull Request](https://github.com/6banlaobanzhang/65-Save-Backup/pulls) 页面上传。
 
