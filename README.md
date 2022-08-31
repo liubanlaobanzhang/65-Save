@@ -34,14 +34,22 @@
   ### 迁移后，资源包将使用“追加包”形式，
   ### 即只在资源包中更改存档中需要更改的部分。
   ### 目前存档版本迁移计划已正式开始，预计2022.10.7前完成。
+  ### 迁移进度：60%
+  | 建筑部分 | 进度 |
+  |--|--|
+  | 存档迁移 | 67%（正在修缮部分因版本更新/模组缺失造成的方块错误） |
+  | 客户端模组迁移 | 100% |
+  | 服务端模组迁移 | 0% |
+  | 材质包迁移 | 38% |
+  | Git仓库迁移 | 0% |
   
 ---
 
-### [下载适用于客户端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Client)
+### 下载适用于客户端的模组【暂停】
 
-### [下载适用于服务端的模组](https://github.com/6banlaobanzhang/65-Save-Backup/tree/Mods-For-Server)
+### 下载适用于服务端的模组【暂停】
 
-### [下载资源包](https://github.com/6banlaobanzhang/65-Save-Backup/tree/%E8%B5%84%E6%BA%90%E5%8C%85)（此资源包魔改自 [Bare Bones](https://www.curseforge.com/minecraft/texture-packs/bare-bones-texture-pack) 材质包）
+### 下载资源包【暂停】（此资源包魔改自 [Bare Bones](https://www.curseforge.com/minecraft/texture-packs/bare-bones-texture-pack) 材质包）
   
 </div>
 
