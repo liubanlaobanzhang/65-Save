@@ -16,7 +16,7 @@
 [![star](https://gitee.com/liubanlaobanzhang/65-Save-Backup/badge/star.svg?theme=dark)](https://gitee.com/liubanlaobanzhang/65-Save-Backup/stargazers)
 [![fork](https://gitee.com/liubanlaobanzhang/65-Save-Backup/badge/fork.svg?theme=dark)](https://gitee.com/liubanlaobanzhang/65-Save-Backup/members)
 
-![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-red?logo=data:https://files.minecraftforge.net/static/images/logo.svg)
+![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-red?logo=data:image/png,aHR0cHM6Ly9wYXRjaHdpa2kuYmlsaWdhbWUuY29tL2ltYWdlcy9tYy80LzQ4Lzh3c2w1YnIyYTRwMHA1bGtpMTJpejJrbGxuZ3h4ZXMucG5n)
 [![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-red?logo=forge)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
   
 [![q](https://img.shields.io/badge/65%20%E6%A0%A1%E5%86%85%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86-%E6%9A%82%E5%81%9C(GitHubIssuses)-orange)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/README.md#%E6%8F%90%E5%87%BAissues)
