@@ -13,7 +13,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/6banlaobanzhang/65-Save-Backup?logo=github)](https://github.com/6banlaobanzhang/65-Save-Backup/stargazers)
 [![GitHub license](https://img.shields.io/github/license/6banlaobanzhang/65-Save-Backup?logo=github)](https://github.com/6banlaobanzhang/65-Save-Backup/blob/save/LICENSE)
 
-[![star](https://gitee.com/liubanlaobanzhang/65-Save-Backup/badge/star.svg?theme=dark)](https://gitee.com/liubanlaobanzhang/65-Save-Backup/stargazers)
+[![star](https://gitee.com/liubanlaobanzhang/65-Save-Backup/badge/star.svg?theme=light)](https://gitee.com/liubanlaobanzhang/65-Save-Backup/stargazers)
 [![fork](https://gitee.com/liubanlaobanzhang/65-Save-Backup/badge/fork.svg?theme=dark)](https://gitee.com/liubanlaobanzhang/65-Save-Backup/members)
 
 ![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-red?logo=data:image/png,aHR0cHM6Ly9wYXRjaHdpa2kuYmlsaWdhbWUuY29tL2ltYWdlcy9tYy80LzQ4Lzh3c2w1YnIyYTRwMHA1bGtpMTJpejJrbGxuZ3h4ZXMucG5n)
