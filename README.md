@@ -13,7 +13,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/liubanlaobanzhang/65-Save-Backup?logo=github)](https://github.com/liubanlaobanzhang/65-Save-Backup/stargazers)
 
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange?logo=creativecommons)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
-[![star](https://gitee.com/liubanlaobanzhang/65-Save-Backup/badge/star.svg?theme=light)](https://gitee.com/liubanlaobanzhang/65-Save-Backup/stargazers)
+[![star](https://gitee.com/liubanlaobanzhang/65-Save-Backup/badge/star.svg?theme=dark)](https://gitee.com/liubanlaobanzhang/65-Save-Backup/stargazers)
 [![fork](https://gitee.com/liubanlaobanzhang/65-Save-Backup/badge/fork.svg?theme=dark)](https://gitee.com/liubanlaobanzhang/65-Save-Backup/members)
 
 ![Minecraft 版本](https://img.shields.io/badge/Minecraft-1.12.2(Forge)-red?logo=data:image/png,aHR0cHM6Ly9wYXRjaHdpa2kuYmlsaWdhbWUuY29tL2ltYWdlcy9tYy80LzQ4Lzh3c2w1YnIyYTRwMHA1bGtpMTJpejJrbGxuZ3h4ZXMucG5n)[![Forge 版本](https://img.shields.io/badge/Forge-14.23.5.2860-red?logo=conda-forge)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) | ![Minecraft 新版本](https://img.shields.io/badge/[New]Minecraft-1.17.1(Fabric)-success)[![Fabric 版本](https://img.shields.io/badge/Fabric-0.14.9-blue)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
