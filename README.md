@@ -11,8 +11,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/liubanlaobanzhang/65-Save-Backup?logo=github)](https://github.com/liubanlaobanzhang/65-Save-Backup/issues)
 [![GitHub forks](https://img.shields.io/github/forks/liubanlaobanzhang/65-Save-Backup?logo=github)](https://github.com/liubanlaobanzhang/65-Save-Backup/network)
 [![GitHub stars](https://img.shields.io/github/stars/liubanlaobanzhang/65-Save-Backup?logo=github)](https://github.com/liubanlaobanzhang/65-Save-Backup/stargazers)
-[![GitHub license](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange?logo=creativecommons)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange?logo=creativecommons)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 [![star](https://gitee.com/liubanlaobanzhang/65-Save-Backup/badge/star.svg?theme=light)](https://gitee.com/liubanlaobanzhang/65-Save-Backup/stargazers)
 [![fork](https://gitee.com/liubanlaobanzhang/65-Save-Backup/badge/fork.svg?theme=dark)](https://gitee.com/liubanlaobanzhang/65-Save-Backup/members)
 
