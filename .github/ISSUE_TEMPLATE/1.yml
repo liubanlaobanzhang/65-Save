@@ -1,5 +1,5 @@
-name: 存档中的建筑设计问题（现实中有但存档中无）
-description: 如果你发现现实中有某个建筑但存档中没有，请在此提交Issues。
+name: 存档中的建筑设计问题
+description: 如果你发现现实与存档中出现冲突，请在此提交Issues。
 title: "[现实中有但存档中无] 标题"
 assignees: liubanlaobanzhang
 labels:
