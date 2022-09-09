@@ -18,6 +18,7 @@ body:
   validations:
      required: true
   attributes:
+     multiple: true
      label: Minecraft 版本
      description: 选择一个你发现问题的 Minecraft 版本
      options:
