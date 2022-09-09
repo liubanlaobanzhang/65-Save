@@ -20,8 +20,8 @@ body:
      description: 选择一个你发现问题的 Minecraft 版本
      options:
        - label: 1.12.2
-       - lable: 1.17.1
-       - lable: 其他版本（通常不会修复）
+       - label: 1.17.1
+       - label: 其他版本（通常不会修复）
   
 - type: textarea
   id: description
