@@ -15,8 +15,8 @@ body:
  
 - type: checkboxes
   id: mc-ver
-    validations:
-      required: true
+  validations:
+     required: true
   attributes:
      label: Minecraft 版本
      description: 选择一个你发现问题的 Minecraft 版本
