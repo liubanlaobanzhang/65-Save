@@ -503,12 +503,15 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "adorn:recipes/red_sofa": {
     "criteria": {
       "has_key_item_0": "2022-09-09 16:54:08 +0800"
     },
     "done": true
   },
+=======
+>>>>>>> 4dc5850b023ad3bec4ff17357137ca24e68b9b72
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-12 15:19:42 +0800"
@@ -1031,12 +1034,15 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "adorn:recipes/stone_brick_step": {
     "criteria": {
       "has_key_item_0": "2022-09-09 16:53:03 +0800"
     },
     "done": true
   },
+=======
+>>>>>>> 4dc5850b023ad3bec4ff17357137ca24e68b9b72
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2022-08-30 14:02:01 +0800"
