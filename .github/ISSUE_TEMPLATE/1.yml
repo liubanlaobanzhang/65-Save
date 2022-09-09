@@ -1,16 +1,35 @@
 name: 存档中的建筑设计问题（现实中有但存档中无）
 description: 如果你发现现实中有某个建筑但存档中没有，请在此提交Issues。
 title: "[现实中有但存档中无] 我的标题"
-assignees: 6banlaobanzhang
+assignees: liubanlaobanzhang
 labels:
-  - "存档与实地不符"
+  - "存档建筑与实地不符"
+
 body:
 - type: markdown
   attributes: 
     value: |
       ## 写在开头
-      🚨 请务必完整填写下面的内容，如果缺少必要的信息，UP可能会直接关闭问题 🚨
-      
+      🚨 请务必完整填写下面的内容，如果缺少必要的信息，我们可能会直接关闭问题 🚨
+ 
+ 
+- type: checkboxes
+  id: mc-ver
+  attributes:
+
+     label: Minecraft 版本
+
+     description: 选择一个你发现问题的 Minecraft 版本
+
+     options:
+
+       - label: 1.12.2
+          - lables: "1.12.2"
+       - lable: 1.17.1
+          - lables: "1.17.1"
+       - lable: 其他版本（通常不会修复）
+
+  
 - type: textarea
   id: description
   validations:
@@ -22,9 +41,9 @@ body:
 - type: textarea
   id: repro-steps
   validations:
-    required: true
+    required: false
   attributes:
-     label: 建筑应该存在的位置
+     label: 建筑应该存在的位置（如果不是建筑缺失请忽略）
      render: plain text
      description: 
 
