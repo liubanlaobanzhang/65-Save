@@ -36,12 +36,12 @@
   ### 迁移进度：60%
   | 建筑部分 | 进度 |
   |--|--|
-  | 存档迁移 | 69%（正在修缮部分因版本更新/模组缺失造成的方块错误） |
-  | 客户端模组迁移 | Success <input type="checkbox"> |
+  | 存档迁移 | 修缮部分因版本更新/模组缺失造成的方块错误，如 [因 FutureMC 模组移除 导致的 厕所隔板（活板门）缺失 _#4_](https://github.com/liubanlaobanzhang/65-Save-Backup/issues/4)|
+  | 客户端模组迁移 | Success |
   | 服务端模组迁移 | 0% |
   | 材质包迁移 | Success |
-  | 本地 Git 仓库迁移 | 74% |
-  | 远程 Git 仓库迁移 | Success（待同步） |
+  | 本地 Git 仓库迁移 | Success |
+  | 远程 Git 仓库迁移 | Success |
   
 ---
 
