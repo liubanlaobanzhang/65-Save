@@ -479,40 +479,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2022-09-07 17:50:48 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2022-09-07 17:28:53 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2022-08-15 15:32:05 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2022-08-16 15:50:12 +0800"
-    },
-    "done": true
-  },
-<<<<<<< HEAD
-  "adorn:recipes/red_sofa": {
-    "criteria": {
-      "has_key_item_0": "2022-09-09 16:54:08 +0800"
-    },
-    "done": true
-  },
-=======
->>>>>>> 4dc5850b023ad3bec4ff17357137ca24e68b9b72
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-12 15:19:42 +0800"
     },
@@ -1034,34 +1001,7 @@
     },
     "done": true
   },
-<<<<<<< HEAD
-  "adorn:recipes/stone_brick_step": {
-    "criteria": {
-      "has_key_item_0": "2022-09-09 16:53:03 +0800"
-    },
-    "done": true
-  },
-=======
->>>>>>> 4dc5850b023ad3bec4ff17357137ca24e68b9b72
-  "minecraft:recipes/building_blocks/yellow_wool": {
-    "criteria": {
-      "has_white_wool": "2022-08-30 14:02:01 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2022-09-07 17:50:48 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2022-09-07 17:50:48 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_granite": "2022-09-07 17:28:53 +0800"
     },
