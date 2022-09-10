@@ -13,7 +13,7 @@ body:
       🚨 请务必完整填写下面的内容，如果缺少必要的信息，我们可能会直接关闭问题 🚨
  
  
-- type: checkboxes
+- type: dropdown
   id: mc-ver
   validations:
      required: true
