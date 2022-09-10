@@ -37,9 +37,10 @@ body:
   validations:
     required: false
   attributes:
-     label: 建筑应该存在的位置（如果不是建筑缺失请忽略）
+     label: 建筑应该存在的位置
      render: plain text
-     description: 如果不是建筑缺失请忽略
+     placeholder: |
+      如果不是建筑缺失请忽略……
 
 - type: textarea
   id: expected-behavior
