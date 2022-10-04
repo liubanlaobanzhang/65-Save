@@ -229,6 +229,5 @@
 |  <div align="center">@于秃秃</div> | 在暑假期间提供了极其珍贵的校内实景照片，<br>（暑假除合唱团成员外不准到校）<br>并提供了守正楼平面图 |
 | <img height="150px" src="https://user-images.githubusercontent.com/83630926/186105269-19b1273e-28b8-42c6-9136-ea4e8da0a49c.jpg"></img> <br> <div align="center"> @Hank товарищ </div> | 勘探学校环境，<br>有意向参加本项目 |
 | <div align="center"> @土小逗 </div> | <div align="center"> emm…</div> |
-| ![mmexport1664879887988](https://user-images.githubusercontent.com/83630926/193800466-c156e69d-6420-43f5-8343-b7c1c371536c.png)</br>
-<div align="center"> @染子困死了. </div>| <div align="center">赞助 `0.01` 元 |
-
+| <div align="center"> <img height="150px" src="https://user-images.githubusercontent.com/83630926/193800466-c156e69d-6420-43f5-8343-b7c1c371536c.png"></img></br> @染子困死了. </div> | <div align="center"> 赞助 0.01 RMB </div> |
+ 
