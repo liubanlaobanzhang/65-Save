@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 材质包 Bug 反馈[暂未上线]
+    url: https://github.com
+
+  - name: 模组 Bug 反馈
+    url: https://github.com/liubanlaobanzhang/65-Mods/issues
+    about: 点击跳转到模组仓库议题提交列表
