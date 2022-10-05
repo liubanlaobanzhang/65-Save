@@ -3,7 +3,7 @@ description: 如果你发现现实与存档中出现冲突，请在此提交Issu
 title: "[存档中的建筑设计问题] "
 assignees: liubanlaobanzhang
 labels:
-  - "存档建筑与实地不符"
+  - "存档建筑与实地不符","Bug"
 
 body:
 - type: markdown
