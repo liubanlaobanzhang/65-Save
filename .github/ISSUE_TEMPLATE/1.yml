@@ -4,6 +4,7 @@ title: "[存档中的建筑设计问题] "
 assignees: liubanlaobanzhang
 labels:
   - "存档建筑与实地不符"
+  - "Bug"
 
 body:
 - type: markdown
@@ -20,8 +21,9 @@ body:
      label: Minecraft 版本
      description: 选择一个你发现问题的 Minecraft 版本
      options:
-       - 1.12.2
+       - 1.19.2
        - 1.17.1
+       - 1.12.2（过时的版本，通常不会修复）
        - 其他版本（通常不会修复）
   
 - type: textarea

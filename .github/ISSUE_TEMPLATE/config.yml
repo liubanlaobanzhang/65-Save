@@ -1,0 +1,19 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 存档中的建筑设计问题—投影蓝图上传区域
+    url: https://github.com/liubanlaobanzhang/65-Save/pulls
+    about: 如果你已经修改好存在问题的区域，并且保存了相关的蓝图，请在这里提交。
+    
+  - name: 材质包 Bug 反馈 [暂未上线]
+    url: https://github.com/liubanlaobanzhang/65-Resourcepacks/issues
+    about: 点击跳转到材质包仓库议题提交列表
+
+  - name: 模组 Bug 反馈 [模板尚在开发]
+    url: https://github.com/liubanlaobanzhang/65-Mods/issues
+    about: 点击跳转到模组仓库议题提交列表
+
+  - name: 作者 Bilibili 首页
+    url: https://b23.tv/FaDJwAv
+    about: 给个三连吧～
+   
+  - name: 存档中的建筑设计问题
