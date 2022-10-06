@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2022-10-05 21:34:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-08-12 15:19:42 +0800"
@@ -137,9 +143,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-10-05 21:34:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-15 15:33:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-10-05 21:34:22 +0800"
     },
     "done": true
   },
@@ -173,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2022-10-05 21:31:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2022-08-12 15:19:42 +0800"
@@ -182,6 +206,12 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2022-08-15 14:49:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-10-05 21:34:22 +0800"
     },
     "done": true
   },
@@ -221,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2022-10-05 20:57:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-08-30 14:02:01 +0800"
@@ -248,6 +284,18 @@
   "adorn:stone_ladder": {
     "criteria": {
       "has_stone_ladder": "2022-10-05 15:51:35 +0800"
+    },
+    "done": true
+  },
+  "adorn:recipes/polished_andesite_post": {
+    "criteria": {
+      "has_polished_andesite": "2022-10-05 23:12:04 +0800"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/skyris_wood": {
+    "criteria": {
+      "has_log": "2022-10-05 21:35:29 +0800"
     },
     "done": true
   },
@@ -347,6 +395,12 @@
     },
     "done": true
   },
+  "adorn:recipes/stone_post": {
+    "criteria": {
+      "has_stone": "2022-10-05 21:34:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-12 15:19:42 +0800"
@@ -356,6 +410,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2022-08-30 14:03:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-10-05 21:34:22 +0800"
     },
     "done": true
   },
@@ -422,6 +482,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-12 15:19:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2022-10-05 21:35:29 +0800"
     },
     "done": true
   },
@@ -530,6 +596,12 @@
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-15 15:33:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-10-05 21:34:22 +0800"
     },
     "done": true
   },
@@ -655,7 +727,9 @@
   },
   "adorn:everything": {
     "criteria": {
-      "has_stone_ladder": "2022-10-05 15:51:35 +0800"
+      "has_chair": "2022-10-05 20:58:47 +0800",
+      "has_stone_ladder": "2022-10-05 15:51:35 +0800",
+      "has_table": "2022-10-05 20:57:54 +0800"
     },
     "done": false
   },
@@ -767,6 +841,12 @@
     },
     "done": true
   },
+  "adorn:chair": {
+    "criteria": {
+      "sit_on_chair": "2022-10-05 20:58:50 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2022-08-30 14:02:01 +0800"
@@ -806,6 +886,12 @@
   "adorn:recipes/granite_post": {
     "criteria": {
       "has_granite": "2022-10-05 15:51:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-10-05 21:34:22 +0800"
     },
     "done": true
   },
@@ -878,6 +964,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-12 15:19:42 +0800"
+    },
+    "done": true
+  },
+  "adorn:table": {
+    "criteria": {
+      "has_table": "2022-10-05 20:57:54 +0800"
     },
     "done": true
   },
@@ -1061,6 +1153,12 @@
     },
     "done": true
   },
+  "adorn:recipes/lime_sofa": {
+    "criteria": {
+      "has_wool": "2022-10-05 20:55:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2022-08-30 12:48:18 +0800"
@@ -1106,6 +1204,18 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2022-09-07 17:35:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2022-10-05 21:34:22 +0800"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/skyris_planks": {
+    "criteria": {
+      "has_logs": "2022-10-05 21:35:29 +0800"
     },
     "done": true
   },
@@ -1199,6 +1309,12 @@
     },
     "done": true
   },
+  "adorn:recipes/magenta_sofa": {
+    "criteria": {
+      "has_wool": "2022-10-05 20:55:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2022-08-12 15:19:42 +0800"
@@ -1217,9 +1333,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-10-05 21:34:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-12 15:19:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2022-10-05 21:00:15 +0800"
+    },
+    "done": true
+  },
+  "adorn:recipes/cyan_sofa": {
+    "criteria": {
+      "has_wool": "2022-10-05 23:15:23 +0800"
     },
     "done": true
   },
@@ -1271,9 +1405,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2022-10-05 21:34:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-08-12 15:19:42 +0800"
+    },
+    "done": true
+  },
+  "adorn:recipes/light_blue_sofa": {
+    "criteria": {
+      "has_wool": "2022-10-05 20:55:40 +0800"
     },
     "done": true
   },
@@ -1322,6 +1468,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-15 15:33:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2022-10-05 21:31:13 +0800"
     },
     "done": true
   },
