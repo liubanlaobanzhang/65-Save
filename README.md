@@ -141,7 +141,7 @@
 ## 我希望参加这个项目
 
 ### 赞助
-<img height="450px" src="https://ghproxy.com/https://raw.githubusercontent.com/6banlaobanzhang/65-Save-Backup/README%E4%B8%93%E7%94%A8/mm_reward_qrcode_1661277326607.png"></img>
+<img height="250px" src="https://ghproxy.com/https://raw.githubusercontent.com/6banlaobanzhang/65-Save-Backup/README%E4%B8%93%E7%94%A8/mm_reward_qrcode_1661277326607.png"></img>
 
 
 ### 如果您已经下载了存档，并且在存档中已经建造：
