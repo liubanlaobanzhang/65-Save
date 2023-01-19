@@ -1,0 +1,64 @@
+name: 存档中的建筑设计问题
+description: 如果你发现现实与存档中出现冲突，请在此提交Issues。
+title: "[存档中的建筑设计问题] "
+assignees: liubanlaobanzhang
+labels:
+  - "存档建筑与实地不符"
+  - "Bug"
+
+body:
+- type: markdown
+  attributes: 
+    value: |
+      ## 🚨 如果缺少必要的信息，我们可能会直接关闭问题 🚨
+ 
+ 
+- type: dropdown
+  id: mc-ver
+  validations:
+     required: true
+  attributes:
+     label: Minecraft 版本
+     description: 选择一个你发现问题的 Minecraft 版本
+     options:
+       - 1.19.2
+       - 1.17.1
+       - 1.12.2（过时的版本，通常不会修复）
+       - 其他版本（通常不会修复）
+  
+- type: textarea
+  id: description
+  validations:
+    required: true
+  attributes:
+     label: 描述
+     description: 请简短地描述存档中的问题
+
+- type: textarea
+  id: repro-steps
+  validations:
+    required: false
+  attributes:
+     label: 建筑应该存在的位置
+     placeholder: |
+      如果不是建筑缺失请忽略……
+
+- type: textarea
+  id: expected-behavior
+  validations:
+    required: true
+  attributes:
+     label: 预期行为
+     description: 简要描述你希望看到什么样的结果
+     
+- type: textarea
+  id: screenshots
+  attributes:
+     label: 截图
+     description: 提交截图更有助于我们分析问题
+
+- type: textarea
+  id: additional-context
+  attributes:
+     label: 备注
+     description: 添加你认为有必要的信息
